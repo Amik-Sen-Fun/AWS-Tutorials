@@ -70,7 +70,7 @@
    -  Expedited: 1-5 min
    -  Standard: 3-5 hours
    -  Bulk: 5-12 hours
-   - 
+   
 -  **S3 vs Glacier: **
   - Avg Latency : ms | min/hours
   - Cost : $$ | $
