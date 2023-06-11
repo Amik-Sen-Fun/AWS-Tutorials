@@ -72,8 +72,8 @@
    -  Bulk: 5-12 hours
    
 -  **S3 vs Glacier:**
-  - Avg Latency : ms | min/hours
-  - Cost : $$ | $
+  - Avg Latency : ms v/s min/hours
+  - Cost : $$ v/s $
 
 - **Elastic Book Store**: Provides block level storage for EC2 instances. They exist seperately from the life cycle of the instance.
   - They act like raw, unformatted hard drive. 
