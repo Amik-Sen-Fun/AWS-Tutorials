@@ -71,7 +71,7 @@
    -  Standard: 3-5 hours
    -  Bulk: 5-12 hours
    
--  **S3 vs Glacier: **
+-  ** S3 vs Glacier: **
   - Avg Latency : ms | min/hours
   - Cost : $$ | $
 
